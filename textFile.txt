@@ -1,2 +1,3 @@
 This is a textfile
 This line will be included in the second commit.
+This line will be included in the third commit
